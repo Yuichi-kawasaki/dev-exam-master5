@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class PropertyControllerTest < ActionDispatch::IntegrationTest
+class NearestStationTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
